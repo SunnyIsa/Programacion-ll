@@ -1,4 +1,5 @@
-from multimethod import multimethod
+from multimethod import multimethod
+
 class MiEntero:
 
     def __init__(self, valor):
