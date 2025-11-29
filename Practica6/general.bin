@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "BibliotecaA",
+        "libros": [],
+        "autores": [],
+        "prestamos": [],
+        "horario": {
+            "dias": "lun-vie",
+            "apertura": "8am",
+            "cierre": "9pm"
+        },
+        "ID": 1
+    }
+]
